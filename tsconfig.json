@@ -11,7 +11,7 @@
     "isolatedModules": true,
     "jsx": "preserve",
     "noUncheckedSideEffectImports": false,
-    "incremental": true
+    "incremental": true,
   },
   "include": ["**/*.ts", "**/*.tsx"],
   "exclude": ["node_modules"]
